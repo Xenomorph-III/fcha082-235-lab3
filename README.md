@@ -5,6 +5,6 @@ IMPORTANT:
 
 235-robot is the Python Unit tests written for Task 1.
 
-235-01-hello is the Flask Web App defined and created for Task 2.
+01_hello_flask is the Flask Web App defined and created for Task 2.
 
-235-02-domain is the Flask Web App downloaded for Task 3.
+02_domain is the Flask Web App downloaded for Task 3.
