@@ -3,7 +3,7 @@ Repository for the Week 4 235 lab,focusing on Unit tests and Flask.
 
 IMPORTANT:
 
-235-robot is the Python Unit tests written for Task 1.
+master is the Python Unit tests written for Task 1.
 
 01_hello_flask is the Flask Web App defined and created for Task 2.
 
